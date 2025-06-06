@@ -145,6 +145,7 @@ All inputs are validated for compatibility with APIs.
 
 ---
 ![Similarity Scores Visualization](images/sample_itinerary_output.png)
+![Similarity Scores Visualization](images/sample_itinerary_output_1.png)
 *Figure: The screenshot should display a sample itinerary (e.g., for a trip from London to Paris), either from the console output or the saved text file, highlighting the clear, organized layout with details like flight information, weather-based activities, and hotel suggestions.*
 
 ---
